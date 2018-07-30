@@ -1,2 +1,2 @@
 # MovieDB-App-Android
-java omdb android app eclipse
+java omdb android app (Eclipse)
